@@ -11,22 +11,22 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 - 
 ## Main Features
 - **Character Pawn Possession System**:
-- Character Swapping: Seamlessly switch between player-controlled characters and enemy characters.
-- Player Character (Third-Person): Initiates possession of enemies and navigates the environment, handle item gathering, magic seals crafting, stealth and combat actions.
-- Enemy Character (First-Person): Controlled during possession to engage in combat or strategic movement. Variety based on weapons with unique movesets for both player possession and AI.
+  - Character Swapping: Seamlessly switch between player-controlled characters and enemy characters.
+  - Player Character (Third-Person): Initiates possession of enemies and navigates the environment, handle item gathering, magic seals crafting, stealth and combat actions.
+  - Enemy Character (First-Person): Controlled during possession to engage in combat or strategic movement. Variety based on weapons with unique movesets for both player possession and AI.
 
 - **Magic Seals Crafting System**
-- Magic Seals with various gameplay effect, for stealth or combat approach.
+  - Magic Seals with various gameplay effect, for stealth or combat approach.
 
 - **AI System**:
-- State Machine and Behavior Tree AI Controller Logic.
-- States: Passive, Investigating, Combat, Seeking.
-- Task-based patrol system.
-  - Dynamic Target Selection: Team-based system for responsive AI engagement..
+  - State Machine and Behavior Tree AI Controller Logic.
+    - States: Passive, Investigating, Combat, Seeking.
+  - Task-based patrol system.
+    - Dynamic Target Selection: Team-based system for responsive AI engagement..
     
 - **AI Perception System**:
-- Custom perception system component based, to customize AI awerness based on the current state.
-- Team system for dynamic target selection.
+  - Custom perception system component based, to customize AI awerness based on the current state.
+  - Team system for dynamic target selection.
 
 - **Level Management**
   - Level loading system.
