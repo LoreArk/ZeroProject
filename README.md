@@ -9,7 +9,7 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 - **Engine**: Unreal Engine
 - **Language**: Primarily developed in C++, Blueprints implementations
 - **Gameplay Video** on [YouTube](https://youtu.be/oXDVul_-RPY)
-- 
+
 ## Main Features
 - **Characters and Pawn Possession System**:
   - **Character Swapping**: Seamlessly switch between player-controlled characters and enemy characters.
