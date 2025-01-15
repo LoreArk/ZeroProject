@@ -33,7 +33,6 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
       - Player
       - Player Dummy
       - Player Ally 
-      - Possible Targets: Hostile (player possessed) Enemy, Player, Player Dummy, Player Ally.
 
 - **Level Management**
   - Level loading system.
