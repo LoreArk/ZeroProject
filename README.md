@@ -45,5 +45,8 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 ## Disclaimer
 - This repository is not a full Unreal Engine project but contains only the source code for showcasing the gameplay systems and design patterns implemented. It is the source code of a work-in-progress project.
 
+## Contributors
+ - Lorenzo Pusateri (Solo Developer).
+
 ## Contact
 For questions or feedback, feel free to contact me via my [portfolio website](https://lorenzopusateri.wordpress.com//).
