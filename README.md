@@ -8,7 +8,7 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 - **Type**: Third-Person Stealth Horror
 - **Engine**: Unreal Engine
 - **Language**: Primarily developed in C++, Blueprints implementations
-- 
+
 ## Main Features
 - **Character Pawn Possession System**:
   - Character Swapping: Seamlessly switch between player-controlled characters and enemy characters.
