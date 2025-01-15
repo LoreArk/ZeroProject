@@ -10,7 +10,7 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 - **Language**: Primarily developed in C++, Blueprints implementations
 
 ## Main Features
-- **Character Pawn Possession System**:
+- **Characters and Pawn Possession System**:
   - Character Swapping: Seamlessly switch between player-controlled characters and enemy characters.
   - Player Character (Third-Person): Initiates possession of enemies and navigates the environment, handle item gathering, magic seals crafting, stealth and combat actions.
   - Enemy Character (First-Person): Controlled during possession to engage in combat or strategic movement. Variety based on weapons with unique movesets for both player possession and AI.
