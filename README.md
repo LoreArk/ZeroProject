@@ -40,10 +40,10 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 
 ## Code Structure
 - **Source**: The repository contains the core C++ source code used in the game.
-- **Exclusions**: All paid assets, game content, and non-code resources (like models, textures, animations, etc.) have been excluded to comply with licensing requirements.
+- **Exclusions**: All paid assets, game content, and non-code resources (e.g., models, textures, animations) are excluded to comply with licensing requirements and because they are outside the scope of this repository.
 
 ## Disclaimer
-- **Gameplay**: This is not a fully playable game. It is a work-in-progress project meant to show code and system logic.
+- This repository is not a full Unreal Engine project but contains only the source code for showcasing the gameplay systems and design patterns implemented. It is the source code of a work-in-progress project.
 
 ## Contact
 For questions or feedback, feel free to contact me via my [portfolio website](https://lorenzopusateri.wordpress.com//).
