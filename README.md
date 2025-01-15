@@ -21,8 +21,9 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 - **AI System**:
   - State Machine and Behavior Tree AI Controller Logic.
     - States: Passive, Investigating, Combat, Seeking.
+
   - Task-based patrol system.
-    - Dynamic Target Selection: Team-based system for responsive AI engagement..
+  - Dynamic Target Selection: Team-based system for responsive AI engagement..
     
 - **AI Perception System**:
   - Custom perception system component based, to customize AI awerness based on the current state.
