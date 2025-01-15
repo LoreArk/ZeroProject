@@ -14,6 +14,8 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
   - Character Swapping: Seamlessly switch between player-controlled characters and enemy characters.
   - Player Character (Third-Person): Initiates possession of enemies and navigates the environment, handle item gathering, magic seals crafting, stealth and combat actions.
   - Enemy Character (First-Person): Controlled during possession to engage in combat or strategic movement. Variety based on weapons with unique movesets for both player possession and AI.
+  - Player Dummy Character (Third-Person): Player Character copy with limited actions, to explore safely and distract enemies.
+  - Player Ally Character (AI Controlled): Summoned by player, execute Player given task (Move To, Follow, Attack).
 
 - **Magic Seals Crafting System**
   - Magic Seals with various gameplay effect, for stealth or combat approach.
