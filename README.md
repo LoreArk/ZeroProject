@@ -11,25 +11,29 @@ The **game demo** will soon be available on my **[Itch.io](https://loreark.itch.
 
 ## Main Features
 - **Characters and Pawn Possession System**:
-  - Character Swapping: Seamlessly switch between player-controlled characters and enemy characters.
-  - Player Character (Third-Person): Initiates possession of enemies and navigates the environment, handle item gathering, magic seals crafting, stealth and combat actions.
-  - Enemy Character (First-Person): Controlled during possession to engage in combat or strategic movement. Variety based on weapons with unique movesets for both player possession and AI.
-  - Player Dummy Character (Third-Person): Player Character copy with limited actions, to explore safely and distract enemies.
-  - Player Ally Character (AI Controlled): Summoned by player, execute Player given task (Move To, Follow, Attack).
-
+  - **Character Swapping**: Seamlessly switch between player-controlled characters and enemy characters.
+  - **Player Character (Third-Person)**: Possess or Sightjack enemies, navigate the environment, gather items, craft magic seals, and engage in stealth and combat actions.
+  - **Enemy Character (First-Person)**: Controlled during possession for combat or strategic movement, with unique weapon-based movesets for both player possession and AI.
+  - **Player Dummy Character (Third-Person)**: A limited-action copy of the player character, used for safe exploration and enemy distraction.
+  - **Player Ally Character (AI-Controlled)**: Summoned by the player to execute tasks (e.g., Move To, Follow, Attack).
+    
 - **Magic Seals Crafting System**
-  - Magic Seals with various gameplay effect, for stealth or combat approach.
+  - Craft and use magic seals with various gameplay effects, supporting stealth or combat approaches.
 
 - **AI System**:
-  - State Machine and Behavior Tree AI Controller Logic.
+  - **State Machine and Behavior Tree AI Controller Logic**:
     - States: Passive, Investigating, Combat, Seeking.
 
-  - Task-based patrol system.
-  - Dynamic Target Selection: Team-based system for responsive AI engagement..
-    
-- **AI Perception System**:
-  - Custom perception system component based, to customize AI awerness based on the current state.
-  - Team system for dynamic target selection.
+  - **Task-based patrol system**: AI patrols with time based task assignable at each waypoint.
+
+- **Enemy AI Perception System**:
+  - Custom AI perception component to adjust awareness based on the current state.
+  - **Team-based Attack Target Selection**: Dynamically adapts to situations based on priority logic, allowing enemies to select targets based on the current scenario. Possible targets include:
+      - Hostile (player-possessed) enemies
+      - Player
+      - Player Dummy
+      - Player Ally 
+      - Possible Targets: Hostile (player possessed) Enemy, Player, Player Dummy, Player Ally.
 
 - **Level Management**
   - Level loading system.
